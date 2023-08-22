@@ -1,0 +1,198 @@
+﻿comity, state of being, positive,90
+deleterious, state of being, negative,120
+erudite, state of being, positive,100
+fecund, state of being, positive,90
+felicitous, state of being, positive,90
+mordant, state of being, negative,90
+exculpate, an act, positive,100
+myopic, state of being, negative,100
+portend, an act, negative,90
+provincial, state of being, negative,100
+salutary, state of being, positive,120
+somnolent, state of being, neutral,100
+churlish, state of being, negative,110
+fractious, state of being, negative,100
+limpid, state of being, positive,100
+mawkish, state of being, negative,100
+obeisance, an act, neutral,100
+perfunctory, state of being, negative,110
+perilous, state of being, negative,100
+predilection, state of being, positive,110
+rapacious, state of being, negative,100
+truculent, state of being, negative,90
+laconic, state of being, neutral,100
+opprobrium, state of being, negative,90
+parsimonious, state of being, negative,100
+tempestuous, state of being, negative,100
+tenable, state of being, neutral,100
+urbane, state of being, positive,100
+verisimilitude, state of being, neutral,90
+vitiate, an act, negative,100
+baroque, state of being, neutral,100
+byzantine, state of being, negative,100
+invidious, state of being, negative,100
+numinous, state of being, positive,100
+pellucid, state of being, positive,90
+adroit, state of being, positive,80
+animus, state of being, negative,90
+inborn, state of being, neutral,100
+polymath, state of being, positive,120
+torpor, state of being, negative,110
+trenchant, state of being, positive,90
+apropos, state of being, neutral,100
+virulent, state of being, negative,100
+antedate, an act, neutral,100
+elucidate, an act, positive,100
+synoptic, state of being, neutral,90
+vociferous, state of being, negative,110
+inveterate, state of being, negative,80
+pithy, state of being, positive,100
+upbraid, an act, negative,110
+acquisitive, state of being, negative,90
+blithe, state of being, positive,100
+efficacious, state of being, positive,110
+prolix, an act, negative,100
+veritable, state of being, positive,100
+discomfit, an act, negative,100
+ebullient, state of being, positive,110
+florid, state of being, negative,80
+facetious, state of being, neutral,100
+inveigle, an act, negative,90
+mendacity, state of being, negative,90
+munificent, state of being, positive,110
+parochial, state of being, negative,100
+prevaricate, an act, negative,100
+recrudescent, state of being, negative,100
+temporal, state of being, neutral,100
+largesse, state of being, positive,90
+libertine, state of being, negative,100
+modish, state of being, neutral,100
+aver, an act, neutral,100
+incontrovertible, state of being, positive,100
+itinerant, state of being, neutral,100
+magnanimous, state of being, positive,120
+arresting, an act, positive,90
+fervent, state of being, positive,120
+foment, act, negative,100
+heterodox, state of being, neutral,90
+histrionic, state of being, negative,100
+inviolate, state of being, positive,100
+obstinate, state of being, negative,100
+painstaking, act, positive,100
+phlegmatic, state of being, neutral,100
+stinting, act, negative,100
+vivacious, state of being, positive,100
+convalescent, state of being, positive,100
+languid, state of being, negative,100
+mollify, act, positive,100
+neutralize, act, neutral,120
+precipitous, state of being, negative,110
+pretentious, state of being, negative,100
+mercurial, state of being, neutral,100
+plaintive, state of being, negative,100
+quiescent, state of being, neutral,100
+subsume, act, neutral,70
+surmount, act, positive,110
+auspicious, state of being, positive,110
+bereft, state of being, negative,130
+captious, state of being, negative,100
+pomposity, state of being, negative,100
+ardent, state of being, positive,110
+axiomatic, state of being,neutral,100
+conducive, state of being,positive,100
+equanimity, state of being,positive,100
+idiosyncratic, state of being,neutral,100
+lugubrious, state of being,negative,90
+morose, state of being,negative,130
+officious, state of being,negative,100
+chary, state of being,neutral,100
+excoriate, an act,negative,100
+exigent, state of being,neutral,100
+implacable, state of being,negative,90
+peccadillo, state of being,neutral,100
+philistine, state of being,negative,110
+turpitude, state of being,negative,100
+unalloyed, state of being,positive,100
+abeyance, state of being,neutral,100
+august, state of being,positive,100
+burnish, an act,positive,120
+distend, an act,neutral,100
+gauche, state of being,negative,120
+inchoate, state of being,neutral,100
+quash, an act,negative,100
+redoubtable, state of being,positive,100
+retiring, state of being,neutral,100
+sophistry, an act,negative,80
+abscond, an act, negative,100
+apogee, a state of being, neutral,90
+aspersion, an act, negative,90
+chagrin, a state of being, negative,100
+commiserate, an act, positive,100
+contretemps, an act, negative,100
+detente, a state of being, positive,90
+dowdy, a state of being, negative,110
+echelon, a state of being, neutral,110
+ennui, a state of being, negative,90
+expatiate, an act, neutral,100
+fraught, a state of being, negative,100
+imbroglio, an act, negative,100
+jocund, a state of being, positive,100
+nadir, a state of being, negative,100
+propitious, a state of being, positive,90
+prurient, a state of being, negative,100
+zenith, a state of being, positive,90
+aberrant, a state of being, negative,100
+callow, a state of being, negative,110
+cogitate, an act, neutral,100
+deportment, a state of being, neutral,100
+extemporize, an act, neutral,120
+factious, a state of being, negative,100
+fallow, a state of being, neutral,100
+feint, an act, neutral,100
+indecorous, a state of being, negative,90
+intrigue, an act , positive,100
+nominal, a state of being, neutral,100
+obdurate, a state of being, negative,90
+obstreperous, a state of being, negative,100
+precocious, a state of being, positive,120
+remuneration, a state of being, positive,100
+soliloquy, an act, neutral,100
+spurn, an act , negative,100
+stolid, a state of being, neutral,90
+temerity, a state of being, negative,100
+tenuous, a state of being, negative,100
+verve, a state of being, positive,100
+abrogate, an act , negative,90
+apprise, an act , neutral,110
+beguile, an act , positive,100
+extenuating, a state of being , positive,100
+frenetic, a state of being , negative,100
+ossify, a state of being , negative,100
+pastiche, an act, neutral,100
+perspicacious, a state of being, positive,100
+rhapsody, an act , positive,100
+serendipitous, a state of being , positive,100
+shirk, an act, negative,100
+sinecure, state of being, neutral,100
+sinuous, state of being, neutral,90
+sordid, state of being, negative,110
+surfeit, state of being, negative,120
+voluble, state of being, neutral,100
+abstruse, state of being, negative,90
+dilettante, state of being, negative,100
+effrontery, state of being, negative,100
+endow, state of being, positive,100
+entreat, state of being, positive,100
+gregarious, state of being, positive,100
+indictment, state of being, negative,100
+ineluctable, state of being, negative,100
+levity, state of being, positive,100
+malevolent, state of being, negative,110
+patronize, state of being, negative,100
+penurious, state of being, negative,100
+piquant, state of being, positive,100
+remote, state of being, neutral,100
+reprobate, state of being, negative,110
+turbid, state of being, negative,100
+turgid, state of being, negative,110
+vacuous, state of being, negative,110
